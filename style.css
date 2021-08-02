@@ -1,0 +1,22 @@
+#im1{
+    
+    height: 200px;
+    width: 250px;
+}
+ #introduce{
+    text-align: center;
+}
+#introduce{
+    background-image: linear-gradient(purple,yellow);
+}
+body{
+        background-image: linear-gradient(red, yellow);
+
+}
+#oop{
+    font-size: 20px;
+    color : red;
+}
+button{
+    text-align: center;
+}
